@@ -1,0 +1,28 @@
+#tit1 {
+    background-color: darkcyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#tit2 {
+    background-color: royalblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tit3 {
+    background-color: darkmagenta;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#container {
+    background-color: cornflowerblue;
+    width: 800px;
+    right: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tit4 {
+    width: 300px;
+    right: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
