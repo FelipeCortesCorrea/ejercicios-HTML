@@ -1,0 +1,9 @@
+#container {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: darkcyan;
+    background-color: darkgoldenrod;
+    right: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
