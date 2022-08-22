@@ -1,0 +1,21 @@
+#tit1 {
+    color: darkslateblue;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+    width: 500px;
+}
+
+#container {
+    height: 550px;
+    width: 1000px;
+    background-color: gold;
+    color: mediumblue;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+
+}
+strong{
+    color: black;
+}

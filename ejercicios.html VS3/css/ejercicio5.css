@@ -1,0 +1,10 @@
+#container {
+    color: darkcyan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: darkorange;
+    width: 800px;
+    right: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+} 
