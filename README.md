@@ -31,8 +31,8 @@ VERSION  3.0.0<br/>
 *Se crearon los archivos de css para cada ejercicio<br/>
 *aprendimos a utilizar css<br/>
 *identamos el codigo<br/>
-*se valido en W3C
-*Corregimos errores 
+*se valido en W3C<br/>
+*Corregimos errores <br/>
 *añadimos colores a cada pagina<br/>
 *cambiamos tipos de letras <br/>
 *conocimos los simbolos de css<br/>
